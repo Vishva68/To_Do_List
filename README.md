@@ -280,6 +280,8 @@ renderTasks();
 
 ## OUTPUT
 
+![alt text](<Screenshot 2026-03-10 132452.png>)
+
 
 ## RESULT
 The program for creating To-do list using JavaScript is executed successfully.
